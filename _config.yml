@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 小幻博客
+title: 小小博客
 subtitle: ''
-description: '小幻博客记录自己在工作中碰到了错误,以及解决方案。分享学习与生活中的趣事！'
+description: '小小博客记录自己在工作中碰到了错误,以及解决方案。分享学习与生活中的趣事！'
 keywords:
-author: 小幻
+author: 小小
 language: zh-CN
 timezone: 'Asia/Shanghai'
 
